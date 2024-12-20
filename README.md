@@ -27,6 +27,7 @@ Tribe XR es un ejemplo claro de cómo el software puede transformar disciplinas 
 ![Tribe XR](media/TRIBE_01.jpg)
 [Ver video demostrativo de Tribe XR en YouTube](https://www.youtube.com/watch?v=jPEDi0tm7ss)
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jPEDi0tm7ss" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/watch?v=jPEDi0tm7ss" title="PHASE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
 
 
 
@@ -43,6 +44,7 @@ PHASE es compatible con los principales programas de DJing, como Serato y Trakto
 PHASE combina lo analógico y lo digital para modernizar la práctica del DJing. Este sistema remedia la experiencia del vinilo, preservando su tactilidad mientras elimina limitaciones como el desgaste de agujas o los problemas derivados de vibraciones. Gracias a la transcodificación, convierte los movimientos físicos del vinilo en datos digitales procesados con precisión por el software, garantizando un control fluido y exacto. La automatización facilita la conexión entre los transmisores y el software, eliminando problemas técnicos que eran comunes en sistemas tradicionales. Con una arquitectura modular, cada componente de PHASE funciona como una pieza independiente que se integra perfectamente en el ecosistema del DJ. Este equilibrio entre lo clásico y lo moderno, junto con su portabilidad y facilidad de uso, posiciona a PHASE como un ejemplo perfecto de cómo la tecnología hibrida disciplinas tradicionales.
 
 ![PHASE](media/PHASE_01.jpg)
+[![Video Title](https://img.youtube.com/vi/jPEDi0tm7ss/0.jpg)](https://www.youtube.com/watch?v=jPEDi0tm7ss)
 
 ---
 
