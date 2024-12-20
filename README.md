@@ -25,10 +25,7 @@ Este software está disponible en dispositivos VR como Oculus Quest y PC VR, y p
 Tribe XR es un ejemplo claro de cómo el software puede transformar disciplinas tradicionales mediante la remediación. Traslada la experiencia del DJing físico a la realidad virtual, replicando equipos como mezcladores y reproductores mientras añade funcionalidades únicas del entorno digital, como transmisiones en vivo y personalización de entornos. Cada componente de Tribe XR opera de forma modular, imitando fielmente sus contrapartes físicas, lo que permite a los usuarios interactuar con equipos virtuales como si fueran reales. Además, la automatización simplifica procesos complejos, como la sincronización de pistas, haciendo que incluso los principiantes puedan aprender de forma accesible. La variabilidad, al permitir entornos completamente personalizables, y la eliminación de barreras económicas y logísticas, hacen de Tribe XR un gran ejemplo de cómo el software democratiza el acceso a prácticas creativas.
 
 ![Tribe XR](media/TRIBE_01.jpg)
-[Ver video demostrativo de Tribe XR en YouTube](https://www.youtube.com/watch?v=jPEDi0tm7ss)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jPEDi0tm7ss" frameborder="0" allowfullscreen></iframe>
-<iframe width="320" height="180" src="https://www.youtube.com/watch?v=jPEDi0tm7ss" title="PHASE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
-
+[Ver video demostrativo de TRIBE XR en YouTube](https://www.youtube.com/watch?v=4ozVajBkbec)
 
 
 ---
@@ -44,7 +41,8 @@ PHASE es compatible con los principales programas de DJing, como Serato y Trakto
 PHASE combina lo analógico y lo digital para modernizar la práctica del DJing. Este sistema remedia la experiencia del vinilo, preservando su tactilidad mientras elimina limitaciones como el desgaste de agujas o los problemas derivados de vibraciones. Gracias a la transcodificación, convierte los movimientos físicos del vinilo en datos digitales procesados con precisión por el software, garantizando un control fluido y exacto. La automatización facilita la conexión entre los transmisores y el software, eliminando problemas técnicos que eran comunes en sistemas tradicionales. Con una arquitectura modular, cada componente de PHASE funciona como una pieza independiente que se integra perfectamente en el ecosistema del DJ. Este equilibrio entre lo clásico y lo moderno, junto con su portabilidad y facilidad de uso, posiciona a PHASE como un ejemplo perfecto de cómo la tecnología hibrida disciplinas tradicionales.
 
 ![PHASE](media/PHASE_01.jpg)
-[![Video Title](https://img.youtube.com/vi/jPEDi0tm7ss/0.jpg)](https://www.youtube.com/watch?v=jPEDi0tm7ss)
+[Ver video demostrativo de PHASE en YouTube](https://www.youtube.com/watch?v=jPEDi0tm7ss)
+
 
 ---
 
