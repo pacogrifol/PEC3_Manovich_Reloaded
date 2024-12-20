@@ -25,7 +25,9 @@ Este software está disponible en dispositivos VR como Oculus Quest y PC VR, y p
 Tribe XR es un ejemplo claro de cómo el software puede transformar disciplinas tradicionales mediante la remediación. Traslada la experiencia del DJing físico a la realidad virtual, replicando equipos como mezcladores y reproductores mientras añade funcionalidades únicas del entorno digital, como transmisiones en vivo y personalización de entornos. Cada componente de Tribe XR opera de forma modular, imitando fielmente sus contrapartes físicas, lo que permite a los usuarios interactuar con equipos virtuales como si fueran reales. Además, la automatización simplifica procesos complejos, como la sincronización de pistas, haciendo que incluso los principiantes puedan aprender de forma accesible. La variabilidad, al permitir entornos completamente personalizables, y la eliminación de barreras económicas y logísticas, hacen de Tribe XR un gran ejemplo de cómo el software democratiza el acceso a prácticas creativas.
 
 ![Tribe XR](media/TRIBE_01.jpg)
-[Ver video demostrativo de Tribe XR en YouTube](https://www.youtube.com/watch?v=ENLqpAt7QoE)
+[Ver video demostrativo de Tribe XR en YouTube](https://www.youtube.com/watch?v=jPEDi0tm7ss)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jPEDi0tm7ss" frameborder="0" allowfullscreen></iframe>
+
 
 
 ---
