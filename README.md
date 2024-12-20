@@ -54,6 +54,8 @@ PHASE combina lo analógico y lo digital para modernizar la práctica del DJing.
 ## Referencias  
 - [Página oficial de Tribe XR](https://www.tribexr.com)  
 - [Página oficial de PHASE](https://www.phasedj.com)  
-- Manovich, Lev. *El software toma el mando*.  
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+- Muñoz-Justicia, Juan (2014): "Conocimiento Abierto y Tecnología".
+- Adell Español, F. (2024). Fundamentos y evolución de la multimedia. Primera edición. Universidad Oberta de Catalunya (UOC).
 
-- Recursos adicionales: Videos y documentación relacionados con Tribe XR y PHASE.
+ 
